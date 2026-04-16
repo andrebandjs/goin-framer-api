@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T01:00:30.988Z",
+  "updatedAt": "2026-04-16T01:05:58.308Z",
   "total": 6,
   "posts": [
     {
@@ -26,6 +26,10 @@
         {
           "slug": "monetizacao",
           "name": "Monetização"
+        },
+        {
+          "slug": "dicas",
+          "name": "Dicas"
         }
       ],
       "date": "2026-02-18T03:00:00.000Z"
@@ -40,6 +44,10 @@
         {
           "slug": "institucional",
           "name": "Institucional"
+        },
+        {
+          "slug": "dicas",
+          "name": "Dicas"
         }
       ],
       "date": "2026-01-21T03:00:00.000Z"
@@ -82,6 +90,10 @@
         {
           "slug": "engajamento",
           "name": "Engajamento"
+        },
+        {
+          "slug": "dicas",
+          "name": "Dicas"
         }
       ],
       "date": "2025-12-30T03:00:00.000Z"
