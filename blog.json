@@ -1,0 +1,90 @@
+{
+  "updatedAt": "2026-04-16T00:23:10.823Z",
+  "total": 6,
+  "posts": [
+    {
+      "id": "kKGjPP9y7",
+      "slug": "5-criterios-influenciador-campanha",
+      "title": "5 critérios para encontrar o influenciador ideal para sua campanha",
+      "link": "https://goinsiders.com.br/blog/5-criterios-influenciador-campanha",
+      "image": "https://framerusercontent.com/images/y9S1Qb4Yw8p9m5dhMCW9AIEpSw0.png",
+      "categories": [
+        {
+          "slug": "marcas",
+          "name": "Marcas"
+        }
+      ],
+      "date": "2026-02-25T03:00:00.000Z"
+    },
+    {
+      "id": "dnFnRlkRM",
+      "slug": "7-formas-monetizar",
+      "title": "7 formas eficazes para monetizar com seus conteúdos nas redes sociais",
+      "link": "https://goinsiders.com.br/blog/7-formas-monetizar",
+      "image": "https://framerusercontent.com/images/D8TIgF2BneKSkelO3siAZTME.png",
+      "categories": [
+        {
+          "slug": "monetizacao",
+          "name": "Monetização"
+        }
+      ],
+      "date": "2026-02-18T03:00:00.000Z"
+    },
+    {
+      "id": "Ak6XuN4l8",
+      "slug": "mais-que-conexao",
+      "title": "Muito mais que conexão: GoInsiders é o motor que impulsiona parcerias de sucesso",
+      "link": "https://goinsiders.com.br/blog/mais-que-conexao",
+      "image": "https://framerusercontent.com/images/a5dMfWkEtBqKh2LdqV41JTnS2VQ.png",
+      "categories": [
+        {
+          "slug": "institucional",
+          "name": "Institucional"
+        }
+      ],
+      "date": "2026-01-21T03:00:00.000Z"
+    },
+    {
+      "id": "ZbsVvWsaR",
+      "slug": "por-que-nao-viraliza",
+      "title": "Por Que Seu Conteúdo Não Viraliza? Os 7 Maiores Erros Que Você Pode Estar Cometendo",
+      "link": "https://goinsiders.com.br/blog/por-que-nao-viraliza",
+      "image": "https://framerusercontent.com/images/jT2l8W6pNeeb0GbmY01lXHjlUhg.png",
+      "categories": [
+        {
+          "slug": "engajamento",
+          "name": "Engajamento"
+        }
+      ],
+      "date": "2026-01-11T03:00:00.000Z"
+    },
+    {
+      "id": "gGoflWAV9",
+      "slug": "como-viralizar-e-ter-engajamento",
+      "title": "Como Viralizar e Ter Muito Engajamento nas Redes Sociais em 2025",
+      "link": "https://goinsiders.com.br/blog/como-viralizar-e-ter-engajamento",
+      "image": "https://framerusercontent.com/images/vGYNVY6qBZlDTpv1atbTSpL19Js.png",
+      "categories": [
+        {
+          "slug": "engajamento",
+          "name": "Engajamento"
+        }
+      ],
+      "date": "2026-01-11T00:00:00.000Z"
+    },
+    {
+      "id": "JzpAt8x6e",
+      "slug": "os-5-gatilhos-mentais",
+      "title": "Os 5 Gatilhos Mentais Que Fazem Qualquer Post Bombar nas Redes Sociais",
+      "link": "https://goinsiders.com.br/blog/os-5-gatilhos-mentais",
+      "image": "https://framerusercontent.com/images/uWs0mdyNMs8XmwcMVO8GmsINvY.png",
+      "categories": [
+        {
+          "slug": "engajamento",
+          "name": "Engajamento"
+        }
+      ],
+      "date": "2025-12-30T03:00:00.000Z"
+    }
+  ]
+}
